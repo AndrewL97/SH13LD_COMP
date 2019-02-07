@@ -1,4 +1,4 @@
 @startuml
-Mob/Carbon -> Health : ComplexBurnBruteTox
-Mob/ -> Health : SimpleHP
+MobCarbon -> Health : ComplexBurnBruteTox
+MobSimple -> Health : SimpleHP
 @enduml
